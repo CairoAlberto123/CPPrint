@@ -11,8 +11,8 @@ Licença: MIT
 2025 Cairo Alberto - Todos os direitos reservados.  
 */
 
-#ifndef SIMPLIFIED_SYNTAX_H
-#define SIMPLIFIED_SYNTAX_H
+#ifndef CPPRINT_H
+#define CPPRINT_H
 
 #include <iostream>
 #include <string>
@@ -51,4 +51,4 @@ inline T input(const std::string& prompt) {
     return result;
 }
 
-#endif // SIMPLIFIED_SYNTAX_H
+#endif // CPPRINT_H
